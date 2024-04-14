@@ -3,3 +3,5 @@ edite locally second line
 
 
 edited locally
+
+edited file in the branch
